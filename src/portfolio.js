@@ -321,16 +321,17 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://medium.com/@abdeldjalil.benharkat/javascript-compilation-hoisting-and-the-temporal-dead-zone-92e5417dd904",
+      title: "JavaScript Compilation, Hoisting, and the Temporal Dead Zone",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Explore the inner workings of JavaScript with my latest article! Uncover the mysteries of Compilation, Hoisting, and the Temporal Dead Zone (TDZ). Dive into the world of coding with a newfound understanding. Check out the article!"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://medium.com/@abdeldjalil.benharkat/the-art-of-naming-in-code-a-guide-to-writing-clear-understandable-and-meaningful-names-ff046e09c637",
+      title:
+        "The Art of Naming in Code: A Guide to Writing Clear, Understandable, and Meaningful Names",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "Unlock the secrets to writing cleaner, more efficient code with 'The Art of Naming in Code.' This comprehensive guide dives deep into the nuances of variable, class, and method naming, offering actionable tips and real-world examples. Whether you're a seasoned dev or just starting out, this article is your roadmap to coding clarity. Don't miss out on leveling up your coding game! 🚀🌟"
     }
   ],
   display: true // Set false to hide this section, defaults to true
